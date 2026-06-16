@@ -1,0 +1,12 @@
+[
+  {"id":1,"timestamp":1763311807950,"Type":"firewall","message":"Single log 1"},
+  {"id":2,"timestamp":1763311808096,"Type":"auth","message":"Single log 2"},
+  {"id":3,"timestamp":1763311808206,"Type":"api","message":"Single log 3"},
+  {"id":4,"timestamp":1763311808316,"Type":"firewall","message":"Single log 4"},
+  {"id":5,"timestamp":1763311808423,"Type":"auth","message":"Single log 5"},
+  {"id":6,"timestamp":1763311808532,"Type":"api","message":"Single log 6"},
+  {"id":7,"timestamp":1763311808643,"Type":"firewall","message":"Single log 7"},
+  {"id":8,"timestamp":1763311808762,"Type":"auth","message":"Single log 8"},
+  {"id":9,"timestamp":1763311808866,"Type":"api","message":"Single log 9"},
+  {"id":10,"timestamp":1763311808971,"Type":"firewall","message":"Single log 10"}
+]

@@ -1,0 +1,12 @@
+[
+  {ID: 1, Type: firewall, Epoch: 1, SIEM_LogID: 1},
+  {ID: 2, Type: auth, Epoch: 1, SIEM_LogID: 2},
+  {ID: 3, Type: api, Epoch: 1, SIEM_LogID: 3},
+  {ID: 4, Type: firewall, Epoch: 1, SIEM_LogID: 4},
+  {ID: 5, Type: auth, Epoch: 1, SIEM_LogID: 5},
+  {ID: 6, Type: api, Epoch: 1, SIEM_LogID: 6},
+  {ID: 7, Type: firewall, Epoch: 1, SIEM_LogID: 7},
+  {ID: 8, Type: auth, Epoch: 1, SIEM_LogID: 8},
+  {ID: 9, Type: api, Epoch: 1, SIEM_LogID: 9},
+  {ID: 10, Type: firewall, Epoch: 1, SIEM_LogID: 10}
+]

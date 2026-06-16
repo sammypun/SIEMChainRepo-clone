@@ -1,0 +1,8 @@
+{log id: log-1, hash value: a5cf21520e6b7428a9fe51dd4bed651de8027f18a33678097fd387e9cd818b92}
+{log id: log-4, hash value: 6de88304c1773bc16fe72682a55fe39891e979b1a71d31d6daa977ba2d7cda06}
+{log id: log-7, hash value: aa460e6d1047daef51868f4705b0bccdf86c68e8d094b93b42c22a21569ef690}
+{log id: log-10, hash value: cf87ac2170ff86adb1f87c9f265f32b1654f1e5b32a2117f4ee26f5a89735841}
+
+epoch id: 1
+log type: firewall
+hash value: de81c9edd9dbc63a9226d93865e7759f46e2857ab12f22253a901275d0f0bf8e

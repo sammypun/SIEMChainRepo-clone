@@ -1,0 +1,7 @@
+{log id: log-2, hash value: 8cbcaadb54525bb93a5becb9a6b5b2baa81ac1b43bb225ed664b14a306155aa9}
+{log id: log-5, hash value: df801d4d46ccd639ca7ced1c5fbe55200a983450421d3efd25be3ee750591d22}
+{log id: log-8, hash value: 0c59368f9a000e1d88f4b50cfb2a50a8a35831b1ec5b418643f99bbb2eb1a9c9}
+
+epoch id: 1
+log type: auth
+hash value: 86f7e7adc9cb15fcfb2f2d3ed4d31948706f146cc265ebf440107b3fe005c35f

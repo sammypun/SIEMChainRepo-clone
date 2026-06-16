@@ -1,0 +1,9 @@
+{log id: log-53, hash value: 1649ccafc4b7693030524b5de277a01db396628c8fccd81312f54f909989f903}
+{log id: log-56, hash value: dc914123d45a2827ec46d19da372aff338df28c7e70cb5665bcf0815e35fdf20}
+{log id: log-59, hash value: 7db139c88f21c9c5309d25109da2083d9eccfb12a8558c9906b26caa5a3ddf23}
+{log id: log-62, hash value: 54f27d2c9c5ef04694e665f77e868359c7118a51bff63e453cf7597b693fc605}
+{log id: log-65, hash value: de5272fc90f25bfd23f902ee64eae9f5ad76b44103b1115f9f190c3d20790d47}
+
+epoch id: 2
+log type: auth
+hash value: c09828227b4ac719ca48a8cf9515aa1bdbe1534afc6f31e42e3147339d1fc24a

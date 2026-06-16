@@ -1,0 +1,354 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-11-17T03:15:04.044Z",
+  "topLevelRootHash": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54",
+  "subTrees": {
+    "firewall": {
+      "logType": "firewall",
+      "rootHash": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+      "logs": [
+        {
+          "logId": "log-1",
+          "timestamp": 1763349302698,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 1"
+          },
+          "hash": "a5cf21520e6b7428a9fe51dd4bed651de8027f18a33678097fd387e9cd818b92",
+          "subTreeProof": [
+            {
+              "hash": "6de88304c1773bc16fe72682a55fe39891e979b1a71d31d6daa977ba2d7cda06",
+              "position": "right"
+            },
+            {
+              "hash": "c6720cdedcd70726bfd5c4305afef1e2ed07b3bfd47b1f4ba9e44f6f312375d6",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+          "topLevelProof": [
+            {
+              "hash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+              "position": "right"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-4",
+          "timestamp": 1763349303145,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 4"
+          },
+          "hash": "6de88304c1773bc16fe72682a55fe39891e979b1a71d31d6daa977ba2d7cda06",
+          "subTreeProof": [
+            {
+              "hash": "a5cf21520e6b7428a9fe51dd4bed651de8027f18a33678097fd387e9cd818b92",
+              "position": "left"
+            },
+            {
+              "hash": "c6720cdedcd70726bfd5c4305afef1e2ed07b3bfd47b1f4ba9e44f6f312375d6",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+          "topLevelProof": [
+            {
+              "hash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+              "position": "right"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-7",
+          "timestamp": 1763349303476,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 7"
+          },
+          "hash": "aa460e6d1047daef51868f4705b0bccdf86c68e8d094b93b42c22a21569ef690",
+          "subTreeProof": [
+            {
+              "hash": "cf87ac2170ff86adb1f87c9f265f32b1654f1e5b32a2117f4ee26f5a89735841",
+              "position": "right"
+            },
+            {
+              "hash": "03f274caad86a70a78ce0454505ffee860f65585b0ecbdde199535177ab2da95",
+              "position": "left"
+            }
+          ],
+          "subTreeRoot": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+          "topLevelProof": [
+            {
+              "hash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+              "position": "right"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-10",
+          "timestamp": 1763349303805,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 10"
+          },
+          "hash": "cf87ac2170ff86adb1f87c9f265f32b1654f1e5b32a2117f4ee26f5a89735841",
+          "subTreeProof": [
+            {
+              "hash": "aa460e6d1047daef51868f4705b0bccdf86c68e8d094b93b42c22a21569ef690",
+              "position": "left"
+            },
+            {
+              "hash": "03f274caad86a70a78ce0454505ffee860f65585b0ecbdde199535177ab2da95",
+              "position": "left"
+            }
+          ],
+          "subTreeRoot": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+          "topLevelProof": [
+            {
+              "hash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+              "position": "right"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        }
+      ]
+    },
+    "auth": {
+      "logType": "auth",
+      "rootHash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+      "logs": [
+        {
+          "logId": "log-2",
+          "timestamp": 1763349302926,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 2"
+          },
+          "hash": "8cbcaadb54525bb93a5becb9a6b5b2baa81ac1b43bb225ed664b14a306155aa9",
+          "subTreeProof": [
+            {
+              "hash": "df801d4d46ccd639ca7ced1c5fbe55200a983450421d3efd25be3ee750591d22",
+              "position": "right"
+            },
+            {
+              "hash": "6cddc89f2b1ef5e4276b99a4202fd85bb0376475427fad3b2bdcde6eabb8b4ac",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+          "topLevelProof": [
+            {
+              "hash": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+              "position": "left"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-5",
+          "timestamp": 1763349303256,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 5"
+          },
+          "hash": "df801d4d46ccd639ca7ced1c5fbe55200a983450421d3efd25be3ee750591d22",
+          "subTreeProof": [
+            {
+              "hash": "8cbcaadb54525bb93a5becb9a6b5b2baa81ac1b43bb225ed664b14a306155aa9",
+              "position": "left"
+            },
+            {
+              "hash": "6cddc89f2b1ef5e4276b99a4202fd85bb0376475427fad3b2bdcde6eabb8b4ac",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+          "topLevelProof": [
+            {
+              "hash": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+              "position": "left"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-8",
+          "timestamp": 1763349303589,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 8"
+          },
+          "hash": "0c59368f9a000e1d88f4b50cfb2a50a8a35831b1ec5b418643f99bbb2eb1a9c9",
+          "subTreeProof": [
+            {
+              "hash": "0c59368f9a000e1d88f4b50cfb2a50a8a35831b1ec5b418643f99bbb2eb1a9c9",
+              "position": "right"
+            },
+            {
+              "hash": "4746e6caaaf3311024f11aca0c2ba96b14b7f8790eac3b6acd0da45b82246930",
+              "position": "left"
+            }
+          ],
+          "subTreeRoot": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01",
+          "topLevelProof": [
+            {
+              "hash": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b",
+              "position": "left"
+            },
+            {
+              "hash": "197851abe2d49dbcc2282c9b1d05f5924edaa1ef2cecc1e49db3e35f09af2477",
+              "position": "right"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        }
+      ]
+    },
+    "api": {
+      "logType": "api",
+      "rootHash": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+      "logs": [
+        {
+          "logId": "log-3",
+          "timestamp": 1763349303034,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 3"
+          },
+          "hash": "9947955ddd6a35f345b0ad6f5f94fc0e908bb07845664ade664677db25008d18",
+          "subTreeProof": [
+            {
+              "hash": "d4e5548c49348b7642f7a0d73cf1faa9b03060e0220d5e634e5283da6a65a7d4",
+              "position": "right"
+            },
+            {
+              "hash": "c1111b138adbba02501e3e6ea71349a1619bfd298485b83d6bd450b59a2ea365",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+          "topLevelProof": [
+            {
+              "hash": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+              "position": "right"
+            },
+            {
+              "hash": "895f3561eafb95fd005db4e543bb9187df652c847ce9c707e9c5e9989e9729fc",
+              "position": "left"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-6",
+          "timestamp": 1763349303367,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 6"
+          },
+          "hash": "d4e5548c49348b7642f7a0d73cf1faa9b03060e0220d5e634e5283da6a65a7d4",
+          "subTreeProof": [
+            {
+              "hash": "9947955ddd6a35f345b0ad6f5f94fc0e908bb07845664ade664677db25008d18",
+              "position": "left"
+            },
+            {
+              "hash": "c1111b138adbba02501e3e6ea71349a1619bfd298485b83d6bd450b59a2ea365",
+              "position": "right"
+            }
+          ],
+          "subTreeRoot": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+          "topLevelProof": [
+            {
+              "hash": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+              "position": "right"
+            },
+            {
+              "hash": "895f3561eafb95fd005db4e543bb9187df652c847ce9c707e9c5e9989e9729fc",
+              "position": "left"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        },
+        {
+          "logId": "log-9",
+          "timestamp": 1763349303697,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 9"
+          },
+          "hash": "699ef7a3c3bce01d53c87764c5ee771337c97d3470f77c209416774afee67a2b",
+          "subTreeProof": [
+            {
+              "hash": "699ef7a3c3bce01d53c87764c5ee771337c97d3470f77c209416774afee67a2b",
+              "position": "right"
+            },
+            {
+              "hash": "39ca9dcd8c0bcc62b821fda8ce3d0655f73ce75cefde034565330961224bfecd",
+              "position": "left"
+            }
+          ],
+          "subTreeRoot": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+          "topLevelProof": [
+            {
+              "hash": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9",
+              "position": "right"
+            },
+            {
+              "hash": "895f3561eafb95fd005db4e543bb9187df652c847ce9c707e9c5e9989e9729fc",
+              "position": "left"
+            }
+          ],
+          "topLevelRoot": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54"
+        }
+      ]
+    }
+  },
+  "statistics": {
+    "totalLogs": 10,
+    "subTreeCount": 3,
+    "rootHash": "642e42963b83cb2dbb1bb8362a2260e781b6a915e6a25bbe243bed2277a7ff54",
+    "subTrees": {
+      "firewall": {
+        "logCount": 4,
+        "rootHash": "b8695ca5359b9c72a732704b861b565540bd93292eaf1a902c5d6c55a063fb2b"
+      },
+      "auth": {
+        "logCount": 3,
+        "rootHash": "917533e4348b33b6a88b0d0ae077fc0a3816c69e7947f0b0e3c4d080e26fac01"
+      },
+      "api": {
+        "logCount": 3,
+        "rootHash": "ed10e3d6437d3107c592b11c902e53f32fe89451d276a865351218ac0e4746f9"
+      }
+    }
+  }
+}

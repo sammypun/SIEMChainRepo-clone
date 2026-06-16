@@ -1,0 +1,134 @@
+{
+  "version": "1.0",
+  "timestamp": "2025-11-14T15:25:32.396Z",
+  "topLevelRootHash": "1636e5d759e50428982a165c172a8e47bb7c86a7f2ea6e79acba958aa900277f",
+  "subTrees": {
+    "firewall": {
+      "logType": "firewall",
+      "logs": [
+        {
+          "logId": "log-1",
+          "timestamp": 1763133931170,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 1"
+          },
+          "hash": "2eb3215c6e65bdc4d9b26f51614c12228787ec73bdf061e15ddd16c05a27a266"
+        },
+        {
+          "logId": "log-4",
+          "timestamp": 1763133931533,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 4"
+          },
+          "hash": "67eb7ccb0450a7662b7358692d0868c7f2dec177642d8db8bde394bceb51a885"
+        },
+        {
+          "logId": "log-7",
+          "timestamp": 1763133931856,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 7"
+          },
+          "hash": "19c8ae11e9bcdd4638fc6d005ce15bd69e12062934bb3ae0a9c0463878e16470"
+        },
+        {
+          "logId": "log-10",
+          "timestamp": 1763133932180,
+          "logType": "firewall",
+          "metadata": {
+            "message": "Single log 10"
+          },
+          "hash": "388d0f68d4c8f54a6d28b67f4757f874db3384ab1c8c8f1af8387976c923265c"
+        }
+      ],
+      "rootHash": "a64327ad3ade8c5d91f604f303a3f953291e83f0ca6586b64aa9196ae0e4fa6c"
+    },
+    "auth": {
+      "logType": "auth",
+      "logs": [
+        {
+          "logId": "log-2",
+          "timestamp": 1763133931316,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 2"
+          },
+          "hash": "c53310a0c96dd05184be0a17dc46dd3befb4636a4f93cc5b4476f148d229d716"
+        },
+        {
+          "logId": "log-5",
+          "timestamp": 1763133931640,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 5"
+          },
+          "hash": "e1580eaa0099ef205044892d1f38bd10034405358c1d5aa5011fbf247ecac4dc"
+        },
+        {
+          "logId": "log-8",
+          "timestamp": 1763133931965,
+          "logType": "auth",
+          "metadata": {
+            "message": "Single log 8"
+          },
+          "hash": "69ec8b73fc241e111016db7e289e08630ed937b1c0a3ddb37c25cf308ade2ca8"
+        }
+      ],
+      "rootHash": "2d73d0dab23e023fdd8b414e441a830aca8e0e13d32cd8571c28fa0c605f9001"
+    },
+    "api": {
+      "logType": "api",
+      "logs": [
+        {
+          "logId": "log-3",
+          "timestamp": 1763133931425,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 3"
+          },
+          "hash": "86f640cd50a8d057d3b8b1849dd4f2bf0b87c9127fab6d0a74761f8df6267d45"
+        },
+        {
+          "logId": "log-6",
+          "timestamp": 1763133931747,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 6"
+          },
+          "hash": "1ae6353a02826aea5c7797cbe95a5a5d06c58f95558ebe569c8fb69f41bd2c4a"
+        },
+        {
+          "logId": "log-9",
+          "timestamp": 1763133932072,
+          "logType": "api",
+          "metadata": {
+            "message": "Single log 9"
+          },
+          "hash": "c71f1aa19ebed015fd2157de5bd48c76ddeda14904084799eba10e3ef8dc4a72"
+        }
+      ],
+      "rootHash": "7c5b0e07108f284f8bf984302612acef5b1f3273ee722fce43e7fd3277fd0024"
+    }
+  },
+  "statistics": {
+    "totalLogs": 10,
+    "subTreeCount": 3,
+    "rootHash": "1636e5d759e50428982a165c172a8e47bb7c86a7f2ea6e79acba958aa900277f",
+    "subTrees": {
+      "firewall": {
+        "logCount": 4,
+        "rootHash": "a64327ad3ade8c5d91f604f303a3f953291e83f0ca6586b64aa9196ae0e4fa6c"
+      },
+      "auth": {
+        "logCount": 3,
+        "rootHash": "2d73d0dab23e023fdd8b414e441a830aca8e0e13d32cd8571c28fa0c605f9001"
+      },
+      "api": {
+        "logCount": 3,
+        "rootHash": "7c5b0e07108f284f8bf984302612acef5b1f3273ee722fce43e7fd3277fd0024"
+      }
+    }
+  }
+}
